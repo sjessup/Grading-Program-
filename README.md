@@ -1,8 +1,8 @@
 # Grading-Program-
 
 Description. 
-This program is designed to help through your everyday schooling.  
-It allows you to enter your school assignments scores. 
+This program is designed to help students through their everyday schooling.  
+It allows you to enter your school assignment scores. 
 It will calcualte the scores and tell you what grade you will have in the class. 
 It will also let you delete assignments.
 It can also be used for determining what type of score you need on a future assignment to receive different letter grades.  
