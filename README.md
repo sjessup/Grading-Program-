@@ -24,9 +24,7 @@ while(!inFile.eof())
 		{
 		
 			getline(inFile, name, '#');
-			
 			getline(inFile, score, '#');
-			
 			getline(inFile, outOf);
 			
       
