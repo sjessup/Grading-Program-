@@ -14,3 +14,15 @@ The program exists to give student another view of their grades.  It allows the 
 them to the teachers grades to see if they match.  If they do not match then there is something wrong with your records or 
 there is something wrong with the teachers record.  It will also help you on future assignment to show you what kind of score
 you need to receive a different letter grade. 
+
+Example
+
+while(!inFile.eof())
+		{
+			getline(inFile, name, '#');
+			getline(inFile, score, '#');
+			getline(inFile, outOf);
+      
+This example show you how the program read what is in the file to determin many different thing.  It can add up your scores and 
+show you what your grade will be.  It can also dispaly your grades and show you what you have enetered.  It can also help you 
+find what score you will need in the future.  
