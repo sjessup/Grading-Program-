@@ -26,3 +26,9 @@ while(!inFile.eof())
 This example show you how the program read what is in the file to determin many different thing.  It can add up your scores and 
 show you what your grade will be.  It can also dispaly your grades and show you what you have enetered.  It can also help you 
 find what score you will need in the future.  
+
+How the program works. 
+
+The whole program is keyboard based.  You use the keyboard to enter different options to navigate the program.  You also enter 
+the differnt assignment names, scores, and how many points it is out of with the keyboard.  You also you the keyboard to enter 
+any assignments that you would like to delete.  
