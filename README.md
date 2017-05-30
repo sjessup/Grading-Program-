@@ -30,7 +30,10 @@ while(!inFile.eof())
       
 This example show you how the program read what is in the file to determin many different thing.  It can add up your scores and 
 show you what your grade will be.  It can also dispaly your grades and show you what you have enetered.  It can also help you 
-find what score you will need in the future.  
+find what score you will need in the future.
+
+There is also a file attached that is named FinalProject_example.txt.  This file includes examples of what your assignments  
+and grades will look like when they are entered into the program and saved on the file.  
 
 How the program works. 
 
