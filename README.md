@@ -32,8 +32,8 @@ This example show you how the program read what is in the file to determin many 
 show you what your grade will be.  It can also dispaly your grades and show you what you have enetered.  It can also help you 
 find what score you will need in the future.
 
-There is also a file attached that is named FinalProject_example.txt.  This file includes examples of what your assignments  
-and grades will look like when they are entered into the program and saved on the file.  
+There is also a file attached that is named FinalProject_example.txt.  This file includes examples of what your  
+assignments and grades will look like when they are entered into the program and saved on the file.  
 
 How the program works. 
 
